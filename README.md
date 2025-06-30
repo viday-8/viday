@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 💼 **Professional Summary**  
-I am a passionate and detail-oriented Full Stack Developer. My expertise lies in React, Node.js, MongoDB, and I love transforming complex problems into elegant solutions. I am currently exploring advanced design patterns and DevOps tools to level up my engineering skills.
+I am a passionate and detail-oriented Full Stack Developer. My expertise lies in React, Node.js, and I love transforming complex problems into elegant solutions. I am currently exploring advanced design patterns and DevOps tools to level up my engineering skills.
 
 ---
 
