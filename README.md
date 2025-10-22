@@ -4,7 +4,7 @@
 </p>
 <div></div>
 <h1 align="center">Hi 👋, I'm Viday</h1>
-<h3 align="center"> React | Node.js | MySQL </h3>
+<h3 align="center"> React.js | Node.js | MySQL </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viday-8&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 💼 **Professional Summary**  
-I am a passionate and detail-oriented Full Stack Developer. My expertise lies in React, Node.js, and I love transforming complex problems into elegant solutions. I am currently exploring advanced design patterns and DevOps tools to level up my engineering skills.
+I am a passionate and detail-oriented Full Stack Developer. My expertise lies in React.js, Node.js, and I love transforming complex problems into elegant solutions. I am currently exploring advanced design patterns and DevOps tools to level up my engineering skills.
 
 ---
 
