@@ -1,7 +1,4 @@
 <div diplay="flex >
-<p align="center">
-  <img src="https://github.com/viday-8.png"  width="150" style="border-radius:50%" alt="Viday" />
-</p>
 <div></div>
 <h1 align="center">Hi 👋, I'm Viday</h1>
 <h3 align="center"> React.js | Node.js | MySQL </h3>
