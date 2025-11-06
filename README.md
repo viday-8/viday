@@ -1,7 +1,7 @@
 <div diplay="flex >
 <div></div>
 <h1 align="center">Hi 👋, I'm Viday</h1>
-<h3 align="center"> React.js | Node.js | MySQL </h3>
+<h3 align="center"> Fullstack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viday-8&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
